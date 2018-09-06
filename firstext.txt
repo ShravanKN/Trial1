@@ -4,6 +4,8 @@ This is my second line of the file
 
 this is the third line of this text file needed for branching
 
+merge it into master
+
 Thankyou 
 Regards,
 Shravan
